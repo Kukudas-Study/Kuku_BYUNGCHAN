@@ -1,0 +1,5 @@
+a, b = input().split(" ")
+a = int(a)
+b = int(b)
+result = bool(a) and bool(b)
+print(result)
