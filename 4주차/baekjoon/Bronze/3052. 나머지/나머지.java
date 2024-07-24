@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class 나머지 {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     // 배열 선언 및 초기화
@@ -8,7 +8,7 @@ public class Main {
     for (int i = 0; i < numArr.length; i++) {
       numArr[i] = sc.nextInt();
     }
-      
+
     int[] remainderArr = new int[42];
     // 각 요소를 42로 나눈 나머지를 구한 뒤 각 인덱스에 해당하는 값을 1 증가시킨다.
     for (int i = 0; i < numArr.length; i++) {
@@ -24,7 +24,7 @@ public class Main {
     }
 
     System.out.println(cnt);
-    
+
     sc.close();
   }
 }
