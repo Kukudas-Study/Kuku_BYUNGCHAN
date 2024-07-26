@@ -1,12 +1,12 @@
 {
   "java.project.sourcePaths": [
-    "5주차/programmers/같은숫자는싫어",
+    "5주차/programmers/1/12906. 같은숫자는싫어",
     "4주차/baekjoon/Bronze/3052. 나머지",
     "4주차/baekjoon/Bronze/2309. 일곱 난쟁이",
     "4주차/baekjoon/Bronze/2231. 분해합",
     "4주차/baekjoon/Bronze/1913. 달팽이",
     "4주차/baekjoon/Bronze/10989. 수 정렬하기3",
     "4주차/baekjoon/Bronze/10813. 공 바꾸기",
-    "5주차/programmers/1/12906. 같은숫자는싫어"
+    "5주차/baekjoon/Bronze/25305. 커트라인"
   ]
 }
