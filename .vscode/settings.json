@@ -1,8 +1,8 @@
 {
   "java.project.sourcePaths": [
     "6주차/baekjoon/Silver/2747. 피보나치 수",
+    "6주차/baekjoon/Silver/1931. 회의실 배정",
     "6주차/baekjoon/Silver/1343. 폴리오미노",
-    "6주차/baekjoon/1931. 회의실 배정",
     "6주차/2167. 2차원 배열의 합",
     "5주차/programmers/1/12906. 같은숫자는싫어",
     "5주차/baekjoon/Silver/10773. 제로",
@@ -14,6 +14,6 @@
     "4주차/baekjoon/Bronze/1913. 달팽이",
     "4주차/baekjoon/Bronze/10989. 수 정렬하기3",
     "4주차/baekjoon/Bronze/10813. 공 바꾸기",
-    "6주차/baekjoon/Silver/1931. 회의실 배정"
+    "5주차/baekjoon/Silver/2503. 숫자야구"
   ]
 }
